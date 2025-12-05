@@ -4,12 +4,12 @@
   "description": "estudos curso.dev",
   "main": "index.js",
   "scripts": {
-    "dev": "next dev" 
+    "dev": "next dev"
   },
   "author": "",
   "license": "MIT",
   "dependencies": {
-    "next": "^13.1.6",
+    "next": "^15.5.7",
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
   }
